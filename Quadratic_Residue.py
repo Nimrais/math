@@ -1,6 +1,6 @@
 # How you can see function "cr_is_quad" creates function
-# for obtained prime. That function obtains number and return True if number is quadratic residue
-# and False in other case under modul of that prime
+# for obtained prime. That function obtains number and return True if number is quadratic residue under modul of that prime
+# and False in other case
 #
 def cr_is_quad(p):
     def is_quadratic_residue(k):
